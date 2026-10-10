@@ -1,0 +1,11 @@
+month,region,product,units,revenue
+Jul,North,Laptop,120,96000
+Jul,South,Laptop,90,72000
+Jul,West,Phone,200,80000
+Aug,North,Phone,150,60000
+Aug,East,Laptop,60,48000
+Aug,West,Laptop,110,88000
+Sep,South,Phone,180,72000
+Sep,East,Phone,95,38000
+Sep,North,Laptop,140,112000
+Sep,West,Phone,210,84000

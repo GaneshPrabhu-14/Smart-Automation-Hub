@@ -1,0 +1,56 @@
+[
+ {
+  "sender": "Priya (Manager)",
+  "subject": "URGENT: Submit Q3 budget sheet",
+  "body": "Please submit the Q3 budget sheet by tomorrow. Finance is waiting.",
+  "time": "09:05",
+  "id": "1",
+  "from_addr": "priya@example.com",
+  "message_id": "<sample-1@example.com>"
+ },
+ {
+  "sender": "Accounts Dept",
+  "subject": "Invoice #4521 needs approval",
+  "body": "Kindly approve invoice #4521 before Friday to avoid late fees.",
+  "time": "09:40",
+  "id": "2",
+  "from_addr": "accounts@example.com",
+  "message_id": "<sample-2@example.com>"
+ },
+ {
+  "sender": "Newsletter",
+  "subject": "Top 10 AI trends this week",
+  "body": "Read our weekly roundup of AI news and articles.",
+  "time": "10:02",
+  "id": "3",
+  "from_addr": "news@example.com",
+  "message_id": "<sample-3@example.com>"
+ },
+ {
+  "sender": "Rahul (Client)",
+  "subject": "Meeting rescheduled",
+  "body": "Our review call is moved to 12 Oct, 4 PM. Action required: share the demo deck by 11 Oct.",
+  "time": "10:30",
+  "id": "4",
+  "from_addr": "rahul@client.com",
+  "message_id": "<sample-4@example.com>"
+ },
+ {
+  "sender": "HR",
+  "subject": "Office picnic photos",
+  "body": "Photos from last weekend are now in the shared folder.",
+  "time": "11:15",
+  "id": "5",
+  "from_addr": "hr@example.com",
+  "message_id": "<sample-5@example.com>"
+ },
+ {
+  "sender": "IT Support",
+  "subject": "Password expiry notice",
+  "body": "Your password expires soon. Please reset it by today.",
+  "time": "11:50",
+  "id": "6",
+  "from_addr": "it@example.com",
+  "message_id": "<sample-6@example.com>"
+ }
+]
